@@ -17,3 +17,5 @@
 * Vision
 * Wasp
 * Antman
+* Spiderman
+* Doctor Strange
